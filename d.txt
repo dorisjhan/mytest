@@ -1,2 +1,5 @@
 ddd
+<<<<<<< HEAD
 add and commit modified
+=======
+>>>>>>> 78f50aa08e883e19d03678f8fddbef17ed582efd
