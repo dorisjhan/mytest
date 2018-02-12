@@ -1,2 +1,0 @@
-2nd clone mytest
-create new file and try to push to github
