@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 111
 mixed test
+=======
+>>>>>>> 1980e25e850344f4c7d81575d6de74f70a594fb7
 2nd modify 
 modify
 soft original
