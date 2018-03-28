@@ -1,5 +1,8 @@
 #Ignore secret file
 secret.txt
 
-#Ignore c.txt
+#Ignore c.txt file-1
 c.txt
+
+#Ignore b.txt
+b.txt
